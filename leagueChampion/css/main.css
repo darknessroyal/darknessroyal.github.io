@@ -124,6 +124,10 @@ nav ul li a:hover {
 	text-align: center;
 	margin-right: 65%;
 }
+img{
+	width:80%;
+	height:auto;
+}
 @media screen and (max-width: 600px) {
 	nav{
 		display: none;
