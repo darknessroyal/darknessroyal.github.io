@@ -88,25 +88,27 @@ nav ul li a:hover {
 }
 .zed{
 	font-size: 2em;
-	background-color: ;
+	background-color: #1C1C28;
 	border-style: double;
 	padding-top:10px;
 	padding-bottom:10px;
 	text-align: center;
 	margin-right: 65%;
+	color: #fff;
 }
 .volibear{
 	font-size: 2em;
-	background-color: ;
+	background-color: #390FD9;
 	border-style: double;
 	padding-top:10px;
 	padding-bottom:10px;
 	text-align: center;
 	margin-right: 65%;
+	color: #fff;
 }
 .thresh{
 	font-size: 2em;
-	background-color: ;
+	background-color: #009C1B;
 	border-style: double;
 	padding-top:10px;
 	padding-bottom:10px;
@@ -115,7 +117,7 @@ nav ul li a:hover {
 }
 .irelia{
 	font-size: 2em;
-	background-color: ;
+	background-color: #D38D00;
 	border-style: double;
 	padding-top:10px;
 	padding-bottom:10px;
