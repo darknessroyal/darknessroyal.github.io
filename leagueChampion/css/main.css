@@ -55,3 +55,73 @@ nav ul li a:hover {
 	background-color: #05D8D8;
 	color: #000;
 }
+.list{
+	font-size: 1.5em;
+	font-family:Verdana;
+}
+.ashe{
+	font-size: 2em;
+	background-color: #F01480;
+	border-style: double;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align: center;
+	margin-right: 65%;
+}
+.garen{
+	font-size: 2em;
+	background-color: #EFE65B;
+	border-style: double;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align: center;
+	margin-right: 65%;
+}
+.vladimir{
+	font-size: 2em;
+	background-color: red;
+	border-style: double;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align: center;
+	margin-right: 65%;
+}
+.zed{
+	font-size: 2em;
+	background-color: ;
+	border-style: double;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align: center;
+	margin-right: 65%;
+}
+.volibear{
+	font-size: 2em;
+	background-color: ;
+	border-style: double;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align: center;
+	margin-right: 65%;
+}
+.thresh{
+	font-size: 2em;
+	background-color: ;
+	border-style: double;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align: center;
+	margin-right: 65%;
+}
+.irelia{
+	font-size: 2em;
+	background-color: ;
+	border-style: double;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align: center;
+	margin-right: 65%;
+}
+
+
+
