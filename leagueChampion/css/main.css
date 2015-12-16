@@ -14,7 +14,9 @@ h1{
 	font-family: Times New Roman;
 	font-size:  2.5em;
 }
-
+h2{
+	width: 35%;
+}
 .centerMe {
 	display: block;
 	margin-left: auto;
@@ -134,6 +136,9 @@ nav ul li a:hover {
 .leagueIcon{
 	max-width:50%;
 	height:auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 @media screen and (max-width: 600px) {
 	nav ul {
@@ -141,7 +146,6 @@ nav ul li a:hover {
 		margin: 0;
 		padding: 0;
 		background-color: #635F6F;
-		width: 100%;
 		position: fixed;
 		height: auto;
 		top: 0;
