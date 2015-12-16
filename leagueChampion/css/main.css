@@ -60,6 +60,7 @@ nav ul li a:hover {
 .list{
 	font-size: 1.5em;
 	font-family:Verdana;
+	list-style-type:none;
 }
 .ashe{
 	font-size: 2em;
